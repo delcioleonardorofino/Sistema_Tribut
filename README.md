@@ -65,7 +65,7 @@ A interface gráfica será aberta, e você poderá interagir com o sistema.
 
 A estrutura do projeto é a seguinte:
 
-
+```text
 /Sist_trib
 ├── /main.py               # Código principal que inicia o aplicativo
 ├── /db/                   # Arquivos relacionados ao banco de dados
@@ -82,7 +82,7 @@ A estrutura do projeto é a seguinte:
 ├── requirements.txt       # Dependências do projeto
 ├── README.md              # Este arquivo
 └── /venv/                 # Ambiente virtual
-
+```
 
 ## Contribuindo
 
